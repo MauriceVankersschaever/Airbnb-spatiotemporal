@@ -1,2 +1,5 @@
 .vscode/settings.json
 Airbnb-spatiotemporal.code-workspace
+Neural network/mor/enhanced_model_final.pth
+Neural network/mor/best_enhanced_model.pth
+Neural network/mor/enhanced_predictions.npy
