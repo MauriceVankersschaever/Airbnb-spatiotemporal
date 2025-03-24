@@ -1,0 +1,4 @@
+model,description,rmse,mae,r2,mape,n_samples
+Previous Day Actual Price,Previous day's actual price → predict actual price,0.07943993407837759,0.016486187483088686,0.9920222662146295,14.156929348027045,275240
+Previous Day Simulated Price,Previous day's simulated price → predict simulated price (evaluate against actual),0.6577653545423867,0.4059141874817661,0.453054845228384,255.02448408555463,275240
+7-Day Average Simulated Price,Previous 7-day average of simulated price → predict simulated price (evaluate against actual),0.6610296471267373,0.41103520348800626,0.44761272464219737,260.24027046022013,275240
