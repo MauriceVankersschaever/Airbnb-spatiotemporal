@@ -1,0 +1,18 @@
+Neighbor Quality Evaluation:
+Number of neighbors requested per listing: 5
+Using similarity filtering: Yes
+Similarity threshold: auto-determined
+Minimum neighbors per listing: 1
+Total test listings: 1573
+Total train listings: 6291
+
+avg_geo_distance_km: 3.142311
+median_geo_distance_km: 2.925696
+avg_amenity_similarity: 0.893772
+avg_price_error: 89.961608
+median_price_error: 50.000000
+rmse: 151.086839
+avg_neighbor_count: 3.202797
+min_neighbor_count: 1
+max_neighbor_count: 5
+listings_with_neighbors_pct: 100.000000
