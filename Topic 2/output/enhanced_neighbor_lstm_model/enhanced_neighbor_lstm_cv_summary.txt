@@ -1,0 +1,17 @@
+EnhancedNeighborBasedLSTM Rolling Window CV Model Summary
+=================================
+
+Window size: 35 days
+Number of splits: 5
+Training period: 2023-08-07 to 2024-02-08
+Number of training listings: 6291
+Number of test listings: 1573
+
+LSTM hidden dimension: 32
+Maximum neighbors per listing: 5
+
+Overall Metrics:
+  rmse: 108.629559
+  mae: 57.262632
+  r2: 0.537270
+  mape: 27.542926
