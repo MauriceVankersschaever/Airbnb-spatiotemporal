@@ -1,0 +1,16 @@
+Naive Baseline XGBoost Model Summary (No Price History)
+=================================================
+
+Number of splits: 5
+Training period: 2023-08-07 to 2024-02-08
+Number of training listings: 6291
+Number of test listings: 1573
+
+Overall Metrics (on original price scale):
+  rmse: 118.452138
+  mae: 63.375211
+  r2: 0.449804
+  mape: 31.675163
+  explained_variance: 0.469287
+  max_error: 1045.554265
+  median_absolute_error: 34.146970
