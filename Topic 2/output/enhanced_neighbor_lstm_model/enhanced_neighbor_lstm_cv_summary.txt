@@ -10,8 +10,13 @@ Number of test listings: 1573
 LSTM hidden dimension: 32
 Maximum neighbors per listing: 5
 
+MAE Stability (day-to-day): 0.0286
+
 Overall Metrics:
-  rmse: 108.629559
-  mae: 57.262632
-  r2: 0.537270
-  mape: 27.542926
+  rmse: 108.679285
+  mae: 57.313712
+  r2: 0.536846
+  mape: 27.555257
+  explained_variance: 0.554346
+  max_error: 999.720978
+  median_absolute_error: 29.798421
